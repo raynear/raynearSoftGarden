@@ -8,4 +8,4 @@
 [[DailyVoyage/FAQ\|FAQ]]
 [[DailyVoyage/Contact\|Contact]]
 [[DailyVoyage/Feedback\|Feedback]]
-[[DailyVoyage/Privacy Policy\|Privacy Policy]]
+[[DailyVoyage/Privacy Policy\|DailyVoyage/Privacy Policy]]
