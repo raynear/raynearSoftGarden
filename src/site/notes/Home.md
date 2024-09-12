@@ -8,4 +8,8 @@
 [[DailyVoyage/FAQ\|FAQ]]
 [[DailyVoyage/Contact\|Contact]]
 [[DailyVoyage/Feedback\|Feedback]]
-[[DailyVoyage/Privacy Policy\|DailyVoyage/Privacy Policy]]
+[[DailyVoyage/Privacy Policy\|Privacy Policy]]
+
+## QuantomicHabit
+[[QuantomicHabit/Privacy Policy\|Privacy Policy]]
+
