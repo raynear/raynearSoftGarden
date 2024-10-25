@@ -10,6 +10,6 @@
 [[DailyVoyage/Feedback\|Feedback]]
 [[DailyVoyage/Privacy Policy\|Privacy Policy]]
 
-## QuantomicHabit
+## BeMe
 [[BeMe/Privacy Policy\|Privacy Policy]]
 
