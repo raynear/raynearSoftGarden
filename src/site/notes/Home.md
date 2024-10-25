@@ -11,5 +11,5 @@
 [[DailyVoyage/Privacy Policy\|Privacy Policy]]
 
 ## QuantomicHabit
-[[QuantomicHabit/Privacy Policy\|Privacy Policy]]
+[[BeMe/Privacy Policy\|Privacy Policy]]
 
