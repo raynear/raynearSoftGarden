@@ -22,11 +22,13 @@ Raynear Soft serves general users, IT professionals, and potential clients such 
 Raynear Soft aims to deliver innovative and reliable services that address clients’ needs while unlocking new possibilities through cutting-edge technology.
 
 ## MD Journal
+[App Store](https://apps.apple.com/kr/app/md-journal/id6479233700) [Play Store](https://play.google.com/store/apps/details?id=com.raynear.diary)
 [[MD Journal/FAQ\|FAQ]]
 [[MD Journal/Contact\|Contact]]
 [[MD Journal/Feedback\|Feedback]]
 [[MD Journal/Privacy Policy\|Privacy Policy]]
 
 ## Habitrek
+[App Store](https://apps.apple.com/kr/app/habitrek/id6670794597) [Play Store](https://play.google.com/store/apps/details?id=com.raynear.habit)
 [[Habitrek/Privacy Policy\|Privacy Policy]]
 
